@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2648871409
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72e6240e6f275a8131db397ad14a88de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1882aeab2a3473d3a67d084a18daa0aa
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5331f59867782c14096456abb94de423, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6443dff314a26b849971b14ceb0d5bf8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: AnotherPublisherGame
+- AssemblyName: Assembly-CSharp
+  ClassName: InAppProduct
+- AssemblyName: Assembly-CSharp
+  ClassName: LoadingStepData
+- AssemblyName: Assembly-CSharp
+  ClassName: LoadingStepType
+- AssemblyName: Assembly-CSharp
+  ClassName: Localization
+- AssemblyName: Assembly-CSharp
+  ClassName: LocalizedLoadingSteps
+- AssemblyName: Assembly-CSharp
+  ClassName: ThemeColor
+Assets:
+- Assets/PictureQuizPlus/Resources/details/settings/Loading.asset
+- Assets/PictureQuizPlus/Resources/details/settings/Game.asset
+Dependencies: []
